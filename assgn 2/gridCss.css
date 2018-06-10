@@ -1,0 +1,48 @@
+@media only screen and (min-width: 401px) 
+{
+    .Mycol-s-1 {width: 16.66%;}
+    .Mycol-s-2 {width: 33.33%;}
+    .Mycol-s-3 {width: 50%;}
+    .Mycol-s-4 {width: 66.66%;}
+    .Mycol-s-5 {width: 83.33%;}
+    .Mycol-s-6 {width: 100%;}
+}
+@media only screen and (min-width: 992px) 
+{
+    .Mycol-1 {width: 8.33%;}
+    .Mycol-2 {width: 16.66%;}
+    .Mycol-3 {width: 25%;}
+    .Mycol-4 {width: 33.33%;}
+    .Mycol-5 {width: 41.66%;}
+    .Mycol-6 {width: 50%;}
+    .Mycol-7 {width: 58.33%;}
+    .Mycol-8 {width: 66.66%;}
+    .Mycol-9 {width: 75%;}
+    .Mycol-10 {width: 83.33%;}
+    .Mycol-11 {width: 91.66%;}
+    .Mycol-12 {width: 100%;}
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.pad{
+    padding: 20px;
+}
+
+/*#wrapper{
+    display:block;
+    width:90%;
+    margin:auto;
+}
+#content{
+    display:block;
+    width:80%;
+    margin:auto;
+}
+*/
+
+

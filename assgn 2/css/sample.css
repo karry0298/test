@@ -1,0 +1,47 @@
+.row { 
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+
+h2 
+{ 
+	padding-left: 30px;    
+}
+
+.dot1 {
+  height: 15px;
+  width: 15px;
+  background-color: #0061ff;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot2 {
+  height: 15px;
+  width: 15px;
+  background-color: #111;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot3 {
+  height: 15px;
+  width: 15px;
+  background-color: #ff0008;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot4 {
+  height: 15px;
+  width: 15px;
+  background-color: #15ff00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.button{
+	border-radius: 40%;
+	font-size: 5px;
+	background-color: #ffffff;
+}
